@@ -1,0 +1,25 @@
+_repo: Sala-kauppa-b-Ilveilys-neljassa-naytoksessa_73635
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Corander, Gotthard
+    gutenberg_agent_id: '57158'
+    url: http://www.gutenberg.org/2009/agents/57158
+description: ''
+gutenberg_issued: '2024-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73635'
+language: fi
+pgterms:marc905: 20160612133442corander
+pgterms:marc906: '1876'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aWiipuri :$bN. A. Zilliacus, $c1876.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sala-kauppa : $b Ilveilys neljässä näytöksessä'
+url: http://www.gutenberg.org/ebooks/73635
